@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+$danger: #fff000;
+$font-family-base: 'Indie Flower',
+cursive;
+@import "../node_modules/bootstrap/scss/bootstrap";
+p {
+    color: $gray-700;
+}
